@@ -47,7 +47,7 @@ const propTypes = {
    */
   content: PropTypes.node,
   /**
-   * The button text and onclick values of the accept button.
+   * The button text and onclick values of the accept button. Igen
    */
   acceptAction: PropTypes.shape({
     text: PropTypes.string,
